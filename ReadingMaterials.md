@@ -1,6 +1,6 @@
 ## To Graduate Students
 ### Must Read
-Since these materials are not publicaly avaiable, Please ask for the text book from me or other students. (**Note**: Donnot download the book from website since their version might not match)
+Since these materials are not publicly available, Please ask for the textbook from me or other students. (Note: Don't download the book from web since their version might not match)
 1. Probabilistic Machine Learning An Introduction
    - Part I Foundations
 2. Reinforcement Learning - An Introduction
