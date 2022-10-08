@@ -1,6 +1,6 @@
 ## To Graduate Students
 ### Must Read
-Since these materials are not publicaly avaiable, Please ask for the text book from me or other students. (Note: Donnot download the book from website since their version might not match)
+Since these materials are not publicaly avaiable, Please ask for the text book from me or other students. (**Note**: Donnot download the book from website since their version might not match)
 1. Probabilistic Machine Learning An Introduction
    - Part I Foundations
 2. Convex Optimization
@@ -14,3 +14,5 @@ Since these materials are not publicaly avaiable, Please ask for the text book f
    - Part I: Tabular Solution Methods
    - Part II: Approximate Solution Methods
 5. Reinforcement Learning-Theory and Algorithms
+   - Part I Fundamentals
+   - Part III Policy Optimization
